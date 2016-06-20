@@ -4148,3 +4148,11 @@ body.lock-position
 	width: 100%;
 	height: 100%;
 }
+.text>p, .excerpt
+{
+	text-align: justify;
+}
+.tebal
+{
+	font-weight: bold;
+}
